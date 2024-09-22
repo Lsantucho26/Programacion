@@ -9,7 +9,7 @@ VOCALES: str();
 #Declaramos las variables
 letra_user: str();
 
-#Inicializamos variables
+#Inicializamos variables yeah
 A= "a" or "A";
 E= "e" and "E";
 I= "i" and "I";
