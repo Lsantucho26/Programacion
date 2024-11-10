@@ -1,3 +1,7 @@
+#importamos librerias
+import os;
+import time;
+
 #Declaramos variables
 stamp: str();
 tablet: str();
@@ -28,9 +32,6 @@ watch= "watch";
 books= "books";
 cuckoo_clock= "cuckoo clock";
 
-#importamos librerias
-import os;
-import time;
 
 #Comenzamos
 os.system("cls");
